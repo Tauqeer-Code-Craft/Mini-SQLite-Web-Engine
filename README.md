@@ -179,5 +179,4 @@ Building a database engine from scratch presents several complex challenges. Her
 ---
 
 *Built with ❤️ for learning Database Internals.*
-#   M i n i - S Q L i t e - W e b - E n g i n e  
- 
+#
