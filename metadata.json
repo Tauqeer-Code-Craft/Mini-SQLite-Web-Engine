@@ -1,0 +1,5 @@
+{
+  "name": "Mini-SQLite Web Engine",
+  "description": "A fully functional, in-browser SQL database engine powered by a binary B-Tree storage system. It simulates disk persistence using LocalStorage and provides a terminal-like REPL interface.",
+  "requestFramePermissions": []
+}
